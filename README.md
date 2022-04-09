@@ -2,7 +2,7 @@
  
 # Desafio Frontend Mentor para criar um cartão NFT
  
-# Tecnologias usadas : HTML CSS
+# Tecnologias usadas 🛠️ : HTML CSS
 
 # Preview : 
 
