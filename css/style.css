@@ -50,8 +50,9 @@ main{
     color: var(--White);
 }
 
-h3 :hover{
+.text-picture h3:hover{
     color: var(--Cyan);
+    cursor: pointer;
 }
 
 .text-picture span{
@@ -121,4 +122,9 @@ hr {
 .credit strong{
     color: var(--White);
     font-weight: 350;
+}
+
+.credit strong:hover{
+    cursor: pointer;
+    color: var(--Cyan);
 }
